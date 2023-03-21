@@ -508,10 +508,11 @@ img{
     line-height: 24px;
     color: #FFFFFF;
     text-decoration: none;
+				transition: .3s ease;
 }
 
-.header_link:hover, .header_link:focus, .header_link:active {
-    opacity: .75%;
+.header_link:hover, .header_link:active {
+    opacity: .5;
 }
 
 .header_burger {
