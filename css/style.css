@@ -1051,7 +1051,7 @@ img{
 }
 
 .footer_menu-link:hover, .footer_menu-link:focus, .footer_menu-link:active{
-    opacity: .95%;
+    opacity: .75;
 }
 /* Footer styles end */ 
 
